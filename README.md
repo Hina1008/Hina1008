@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-[![Hina1008's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hina1008&theme=vue-dark&show_icons=true)](https://github.com/Hina1008/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hina1008&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Hina1008/github-readme-stats)
+[![Hina1008's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hina1008&theme=vue-dark&show_icons=true)](https://github.com/Hina1008)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hina1008&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/Hina1008)
 
 
 <!--
