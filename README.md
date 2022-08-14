@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hina1008's GitHub stats]（https://github-readme-stats.vercel.app/api?username=Hina1008&count_private=true&show_icons=true&theme=dracula)](https://github.com/Hina1008/github-readme-stats)
+
 <!--
 **Hina1008/Hina1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
