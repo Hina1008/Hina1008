@@ -1,8 +1,8 @@
-<a href="https://github.com/Hina1008/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hina1008&count_private=true&show_icons=true&theme=vue-dark" />
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hina1008&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
-<a href="https://github.com/Hina1008/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hina1008&theme=vue-dark&show_icons=true&layout=compact" />
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hina1008&theme=vue-dark&show_icons=true&layout=compact" />
 </a>
 
 
